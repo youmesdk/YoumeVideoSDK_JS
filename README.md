@@ -161,4 +161,5 @@ import  com.youme.voiceengine.*;
 参见[js SDK集成](##开发环境集成)
 3. 添加依赖库：在`Build Phases`  -> `Link Binary With Libraries`下添加：`libsqlite3.0.tbd`、`libyoume_voice_engine.a`、`libz.dylib`、`libz.1.2.5.tbd`、`libresolv.9.tbd`、`SystemConfiguration.framework`、`CoreTelephony.framework`、`AVFoundation.framework`、`AudioToolBox.framework`、`CFNetwork.framework`。
 
-
+### 备注：
+[详细接口介绍可查看“Video SDK for Cocos2d_js-API手册.md”文档](https://github.com/youmesdk/YoumeVideoSDK_JS/blob/master/Video%20SDK%20for%20Cocos2d_js-API%E6%89%8B%E5%86%8C.md)
