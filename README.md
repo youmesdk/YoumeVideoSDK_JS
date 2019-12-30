@@ -1,5 +1,8 @@
 # Video SDK for Cocos2d Js 使用指南
 
+游密实时视频SDK，如果用git克隆到本地需要使用：  
+git lfs clone https://github.com/youmesdk/YoumeVideoSDK_JS
+
 ## 适用范围
 
 本规范仅适用于使用游密实时音视频引擎Cocos2d-js接口开发多人实时语音功能的开发者。
